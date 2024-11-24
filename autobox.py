@@ -29,6 +29,7 @@ def menu():
     print("4. Thêm/Xóa địa chỉ IP vào router")
     print("5. Thêm/Xóa địa chỉ DHCP vào router")
     print("6. Thoát chương trình")
+    print("7. cap nhat router")
     return int(input("Chọn một tùy chọn (1-6): "))
 
 # Hiển thị thông tin tất cả các router
